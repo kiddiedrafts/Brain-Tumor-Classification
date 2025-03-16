@@ -8,6 +8,8 @@ The goal of this project is to classify brain tumors into four categories:
 - **No tumor**  
 - **Pituitary tumor**
 
+## Dataset
+
 The dataset used in this project is the Brain Tumor Classification (MRI) dataset from Kaggle.
 
 - **Dataset Source:** [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
