@@ -34,4 +34,8 @@ The following preprocessing steps were applied to the dataset:
   - Shifting  
   - Shearing  
   - Zooming  
-  - Horizontal flipping  
+  - Horizontal flipping
+
+## Model Architecture
+ 
+The model is a deep convolutional neural network (CNN)
