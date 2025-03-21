@@ -37,5 +37,9 @@ The following preprocessing steps were applied to the dataset:
   - Horizontal flipping
 
 ## Model Architecture
- 
-The model is a deep convolutional neural network (CNN)
+
+The model is a deep convolutional neural network (CNN) with the following architecture:
+
+- **Convolutional Blocks**: Four convolutional blocks with increasing filter sizes (32, 64, 128, 256) and max-pooling layers.  
+- **Regularization**: Dropout and L2 regularization were used to prevent overfitting.  
+- **Fully Connected Layers**: A dense layer with 512 units followed by a softmax output layer for classification.
