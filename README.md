@@ -46,5 +46,5 @@ The model is a deep convolutional neural network (CNN) with the following archit
 
 ## Training
 
-The model was trained using the Adam optimizer with a learning rate of 0.001.
+The model was trained using the Adam optimizer with a learning rate of 0.001. The training process included:
 
