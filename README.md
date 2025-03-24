@@ -53,3 +53,4 @@ The model was trained using the Adam optimizer with a learning rate of 0.001. Th
 - **Loss Function:** Categorical Crossentropy  
 - **Metrics:** Accuracy  
 
+Training and validation accuracy/loss were monitored to ensure the model was learning effectively.
