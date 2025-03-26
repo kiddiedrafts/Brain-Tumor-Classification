@@ -54,3 +54,10 @@ The model was trained using the Adam optimizer with a learning rate of 0.001. Th
 - **Metrics:** Accuracy  
 
 Training and validation accuracy/loss were monitored to ensure the model was learning effectively.
+
+## Model Performance
+
+The model achieved the following performance metrics:
+
+- **Training Accuracy:** 95.37%  
+- **Testing Accuracy:** 88.21%  
