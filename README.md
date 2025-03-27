@@ -60,4 +60,9 @@ Training and validation accuracy/loss were monitored to ensure the model was lea
 The model achieved the following performance metrics:
 
 - **Training Accuracy:** 95.37%  
-- **Testing Accuracy:** 88.21%  
+- **Testing Accuracy:** 88.21%
+
+### Training & Validation Accuracy
+
+Training & Validation Accuracy
+Replace with actual plot
