@@ -66,3 +66,8 @@ The model achieved the following performance metrics:
 
 Training & Validation Accuracy
 Replace with actual plot
+
+### Training & Validation Loss
+
+Training & Validation Loss
+Replace with actual plot
