@@ -71,3 +71,8 @@ Replace with actual plot
 
 Training & Validation Loss
 Replace with actual plot
+
+### Sample Predictions
+
+Sample Predictions
+Replace with actual plot
