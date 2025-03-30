@@ -80,3 +80,10 @@ Replace with actual plot
 Requirements
 
 To run this project, you need the following Python libraries:
+- **NumPy**  
+- **Pandas**  
+- **OpenCV**  
+- **Scikit-learn**  
+- **TensorFlow**  
+- **Matplotlib**  
+
