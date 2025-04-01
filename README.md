@@ -82,7 +82,8 @@ Requirements
 To run this project, you need the following Python libraries:
 - **NumPy**  
 - **Pandas**  
-- **OpenCV**  
+- **OpenCV**
+- **Random**
 - **Scikit-learn**  
 - **TensorFlow**  
 - **Matplotlib**  
