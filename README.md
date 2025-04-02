@@ -77,7 +77,7 @@ Replace with actual plot
 Sample Predictions
 Replace with actual plot
 
-Requirements
+## Requirements
 
 To run this project, you need the following Python libraries:
 - **NumPy**  
